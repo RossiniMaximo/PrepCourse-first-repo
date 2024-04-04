@@ -1,2 +1,2 @@
-# PrepCourse-first-repo
-Repositorio de prueba de el PrepCourse
+Maximo Rossini
+Este es un proyecto prueba de como crear un repositorio.
